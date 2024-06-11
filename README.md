@@ -2,7 +2,7 @@
 
 ## Ecommerce website
 
-Command 1: npx create-react-app ecommerce. (for react ).
+Command 1: npx create-react-app ecommerce. (for react ).<br>
 Command 2: npm install @mui/material @emotion/react @emotion/styled ( for material-UI).
 Command 3: npm install @mui/icons-material @mui/material @emotion/styled @emotion/react (for material-UI).
 Command 4: npm install -D tailwindcss (for Tailwind Css).
